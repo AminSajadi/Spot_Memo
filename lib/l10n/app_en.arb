@@ -1,0 +1,29 @@
+{
+  "@@locale": "en",
+  "appName": "Spot Memo",
+  "@appName": {
+    "description": "Save your memos easily"
+  },
+
+  "fetchMemosFailed": "Something went wrong!\nPull to refresh.",
+  "fetchMemosEmptyList": "Nothing to show!\nPull to refresh.",
+  "memoMissingItem": "Please add {name}!",
+  "@memoMissingItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "memoMissingItemTitle": "title",
+  "memoMissingItemDesc": "description",
+  "memoMissingItemImage": "image",
+  "addImage": "Add image",
+  "title": "Title",
+  "description": "Description",
+  "save": "Save",
+  "location": "Location",
+  "selectLocation": "Select a location",
+  "youDeniedLocation": "You have permanently denied location permission!",
+  "select": "Select"
+}
